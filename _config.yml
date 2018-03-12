@@ -1,17 +1,17 @@
 future: true
 permalink: /:title/
-url: http://pmlpml.github.io
-name: Pan Sir
-author: Sir Pan
-qq: yourqq
-email: yourmail@mail2.sysu.edu.cn
+url: https://paintersg.github.io
+name: SJX
+author: SGAFPZ
+qq: 1104611441
+email: shaojx5@mail2.sysu.edu.cn
 
-duoshuo: yourname
+duoshuo: paintersg
 beian: 
 cnzz: 
 weibo: 
-github: yourID
-about: "这里是 Your 的个人博客，创建于 20xx 年。"
+github: paintersg
+about: "这里是 paintersg 的个人博客，创建于 2018 年。"
 
 safe: true
 paginate: 20
